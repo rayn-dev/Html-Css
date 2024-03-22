@@ -1,0 +1,64 @@
+img{
+    width: 350px;
+    height: 350px;
+    border-radius: 50%;
+}
+
+/* body{
+    background: url("../img/images.jpeg")no-repeat center/cover;
+} */
+
+.winter {
+    border-radius: 0;
+}
+
+h1{
+    text-align: center;
+    color: red;
+    font-size: 40px;
+    text-transform: capitalize;
+}
+
+span{
+ color: blue;   
+}
+
+p{
+    line-height: 30px;
+    letter-spacing: 4px;
+    color: blueviolet;
+}
+
+input{
+    border: 2px solid red;
+    border-radius: 8px;
+    outline: none;
+    padding: 10px 5px 10px 5px;
+    margin: 10px;
+}
+
+.btn{
+    background: rgb(255, 94, 0);
+    border: none;
+    color: white;
+    padding: 10px 30px;
+    border-radius: 20px;
+    cursor: pointer;
+}
+
+.btn2{
+    background: palevioletred;
+    border: none;
+    color: white;
+    border-radius: 20px;
+    padding: 8px 20px;
+    cursor: pointer;
+}
+
+select{
+    padding: 10px 15px;
+    border: 2px solid grey;
+    border-radius: 5px;
+    outline: none;
+    color: blue;
+}
